@@ -1,0 +1,28 @@
+{
+    "id": "B8E2E987",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1714789978883.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "519679988c3b45a28091e311daf080f2",
+        "name": "lista_submuestras",
+        "title": "lista_submuestras",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314885603832897585,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1714789978883,
+    "read_only": false,
+    "read_only_alternatives": []
+}
